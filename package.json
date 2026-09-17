@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "pnpm db:up && drizzle-kit generate && drizzle-kit migrate && next dev",
+    "dev": "pnpm db:up && pnpm db:migrate && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

@@ -8,6 +8,13 @@
       "when": 1788332064795,
       "tag": "0000_steep_silver_samurai",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789643319366,
+      "tag": "0001_mean_virginia_dare",
+      "breakpoints": true
     }
   ]
 }
